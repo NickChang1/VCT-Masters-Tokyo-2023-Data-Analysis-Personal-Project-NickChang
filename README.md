@@ -2,3 +2,4 @@ This project is finding out the difference stats between each professional valor
 I couldn't use the vlr.gg API for the overall stats of each player, so I made the dataset on my own by copying them down including the rounds win and loss.
 I wrote this by using the Kaggle Notebook, Python/Pandas/Seaborn/Matplot.
 When I created this program, I had a bit of a hard time getting familiar with pandas, seaborn, matplot and getting the csv file to read correctly and also just a bit of other small bug fixes.
+In the future, I hope to be more experienced with Machine Learning and Data Science, so I can use this make an actual eSports prediction model.
